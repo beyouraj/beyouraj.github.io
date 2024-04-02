@@ -1,2 +1,3 @@
-# beyouraj.io
-I am persuing Btech in civil engineering at Guru nanak dev engineering college
+# RAJ GUPTA
+## I am persuing Btech in civil engineering at **GNDEC**
+### PART TIME VIDEO EDITOR, GRAPHIC DESIGNER
