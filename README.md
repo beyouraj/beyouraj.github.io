@@ -4,4 +4,4 @@
 - Part time **Video Editor**, **Photographer** and **Graphic Designer**.
 -  [Linkdin Profile](https://www.linkedin.com/in/raj-gupta-19b7b6225/)
 ### MY CADBIM LAB ASSIGNEMNTS
-[ASSIGNEMENT LINK](https://github.com/beyouraj/beyouraj.github.io)
+[ASSIGNEMENTS LINK](https://github.com/beyouraj/beyouraj.github.io)
