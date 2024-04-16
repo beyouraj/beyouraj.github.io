@@ -5,4 +5,5 @@
 -  [Linkdin Profile](https://www.linkedin.com/in/raj-gupta-19b7b6225/)
   
  MY CADBIM LAB ASSIGNEMNTS [ASSIGNEMENTS LINK](https://github.com/beyouraj/beyouraj.github.io)
+ Final Report [Link](https://github.com/beyouraj/CADBIM/blob/main/2114047/Final%20report.md)
 #### This repository for CADBIM LAB at [GNDEC](http//gndec.ac.in)
